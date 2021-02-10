@@ -1,5 +1,7 @@
 body {background-color:tan;}
-h1{color:green;}
+h1{color:rgb(155, 155, 155);
+   font-family:verdana;
+}
 
 div.maindiv {
   background-color: white;
@@ -10,4 +12,3 @@ div.maindiv {
   margin-right: auto; margin-left: auto;  
 
 }
-
